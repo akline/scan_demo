@@ -1,0 +1,12 @@
+*.iml
+.gradle
+local.properties
+.idea/workspace.xml
+.idea/libraries
+.DS_Store
+build
+gradleBuild
+
+output_graph*.pb
+output_labels.txt
+
